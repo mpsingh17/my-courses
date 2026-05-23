@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Pulse Dashboard",
-  description: "Production-ready feedback dashboard starter built with Next.js 16.2.5.",
+  description: "Minimal learning project for Next.js 16.2.5 module foundations.",
 };
 
 export default function RootLayout({
