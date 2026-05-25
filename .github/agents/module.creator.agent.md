@@ -1,5 +1,5 @@
 ---
-name: writer
+name: module-creator
 description: This agent writes a new or updates existing course module.
 model: Auto (copilot)
 tools: [vscode, execute, read, agent, edit, search, web, browser, todo]
